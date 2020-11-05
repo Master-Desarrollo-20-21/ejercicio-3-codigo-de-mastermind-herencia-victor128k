@@ -1,3 +1,6 @@
+2020-11-05 18:19 - subo primera versión (incompleta)
+
+
 # ProgramacionOO-Ejercicio3-herencia
 
 Programación del juego de Mastermind: Herencia
